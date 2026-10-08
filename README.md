@@ -58,7 +58,7 @@ My papers are named `<year>_<venue>_<short_title>.pdf`, supervised theses and pr
 | M.Sc. Thesis | [Embodiment Adaptive Control](2026_rapid_embodiment_adaptation.pdf) | Dichen Li @ UC San Diego | Bo Ai |
 | M.Sc. Thesis | [On-robot Deep Reinforcement Learning for Quadruped Locomotion](supervised/msc_thesis_on_robot_deep_rl_for_quadruped_locomotion.pdf) | Jonathan Kinzel | Daniel Palenicek |
 | M.Sc. Thesis | [Gait Analysis of Quadruped Robots during Vertical Ground Perturbations](supervised/msc_thesis_quadrupedal_gait_on_oscillating_surfaces.pdf) | Arne Bick | Maximilian Stasica, Omid Mohseni |
-| Robot Learning: Integrated Project | [Embodiment-aware Universal Humanoid Policy](supervised/ip_motion_window_conditioning.pdf) | Kevin Händler, Maryana Smirnova, Ivan Smirnov | Michael Drolet |
+| Robot Learning: Integrated Project | [Motion-Window Conditioning for Embodiment-Aware Multi-Humanoid Motion Tracking](supervised/ip_motion_window_conditioning.pdf) | Kevin Händler, Maryana Smirnova, Ivan Smirnov | Michael Drolet |
 | Robot Learning: Integrated Project | [Large-scale Procedural Robot Generation](supervised/ip_large_scale_procedural_robot_generation.pdf) | Nurhak Yalcin, Lukas Müller | – |
 | Robot Learning: Integrated Project | [Learning Torque Control for Quadrupeds](supervised/ip_learning_torque_control_for_quadrupeds.pdf) | Daniel Schmidt, Lina Gaumann | – |
 | Robot Learning: Integrated Project | [Student-Teacher Learning for simulated Quadrupeds](supervised/ip_student_teacher_reinforcement_learning.pdf) | Keagan Holmes, Oliver Griess, Oliver Grein | – |
