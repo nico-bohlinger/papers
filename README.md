@@ -10,6 +10,7 @@ My papers are named `<year>_<venue>_<short_title>.pdf`, supervised theses and pr
 | --- | --- | --- |
 | 2026 | [CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments](2026_crossbfm.pdf) | Submitted ([arXiv:2609.38087](https://arxiv.org/abs/2609.38087)) |
 | 2026 | [ChronoSRL: Temporal Geometry for Self-Supervised Reinforcement Learning](2026_chronosrl.pdf) | Submitted ([arXiv:2609.36238](https://arxiv.org/abs/2609.36238)) |
+| 2026 | [Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration](2026_humanoids_remember_where_you_walk.pdf) | IEEE-RAS International Conference on Humanoid Robots (Humanoids) |
 | 2026 | [Shape Your Body: Value Gradients for Multi-Embodiment Robot Design](2026_corl_shape_your_body.pdf) | Conference on Robot Learning (CoRL) |
 | 2026 | [Rapid Embodiment Adaptation for Quadrupedal Locomotion](2026_rapid_embodiment_adaptation.pdf) | Submitted ([arXiv:2608.01506](https://arxiv.org/abs/2608.01506)) |
 | 2026 | [Unified Legged Locomotion: A Single Policy for Millions of Morphologies](2026_grc_unified_legged_locomotion.pdf) | German Robotics Conference (GRC) |
