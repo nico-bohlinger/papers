@@ -26,6 +26,7 @@ My papers are named `<year>_<venue>_<short_title>.pdf`, supervised theses and pr
 
 | Year | Title | Venue |
 | --- | --- | --- |
+| 2026 | [STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards](2026_corl_workshop_stride.pdf) | CoRL 2026 Workshop on Roadmap to Sample-Efficient Real-World Reinforcement Learning |
 | 2026 | [Shape Your Body: Value Gradients for Multi-Embodiment Robot Design](2026_corl_shape_your_body.pdf) | IJCAI 2026 Workshop on AI-Based Humanoid Robot Design and Control Through the Lens of HRI, Evolution, and Biomechanics |
 | 2026 | [Towards Embodiment Scaling Laws in Robot Locomotion](2025_rss_workshop_embodiment_scaling_laws.pdf) | RSS 2026 Workshop on Data-Centric Robotics: What Data Do Robots Really Need? |
 | 2026 | [Active Embodiment Identification with Reinforcement Learning for Legged Robots](2026_icra_workshop_active_embodiment_identification.pdf) | ICRA 2026 Workshop on Act to Sense to Act Better |
