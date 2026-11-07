@@ -48,7 +48,6 @@ My papers are named `<year>_<venue>_<short_title>.pdf`, supervised theses and pr
 
 | Year | Title | Venue |
 | --- | --- | --- |
-| 2026 | [XMimic: Learning Whole-Body Motion Tracking in Under a Minute](2026_xmimic.pdf) | – |
 | 2025 | [Survey on Physics Engines, Simulation Frameworks, and Benchmarks for Robot Learning](2025_survey_simulators_for_robot_learning.pdf) | – |
 | 2023 | [Intrinsically Motivated Agents for Goal Discovery in High Dimensional State Spaces](2023_master_thesis_intrinsically_motivated_agents.pdf) | Master Thesis |
 | 2022 | [Learning Backswing Kicks with Deep Reinforcement Learning](2022_robocup_fcp_learning_backswing_kicks.pdf) | RoboCup 2022 Soccer Simulation 3D, FCP |
