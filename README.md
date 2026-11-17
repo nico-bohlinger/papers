@@ -8,6 +8,7 @@ My papers are named `<year>_<venue>_<short_title>.pdf`, supervised theses and pr
 
 | Year | Title | Venue |
 | --- | --- | --- |
+| 2026 | [It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly](2026_it_takes_two_to_tangram.pdf) | Submitted ([arXiv:2611.08814](https://arxiv.org/abs/2611.08814)) |
 | 2026 | [CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments](2026_crossbfm.pdf) | Submitted ([arXiv:2609.38087](https://arxiv.org/abs/2609.38087)) |
 | 2026 | [ChronoSRL: Temporal Geometry for Self-Supervised Reinforcement Learning](2026_chronosrl.pdf) | Submitted ([arXiv:2609.36238](https://arxiv.org/abs/2609.36238)) |
 | 2026 | [Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration](2026_humanoids_remember_where_you_walk.pdf) | IEEE-RAS International Conference on Humanoid Robots (Humanoids) |
